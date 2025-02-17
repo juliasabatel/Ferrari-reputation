@@ -21,3 +21,16 @@ To examine media reactions, criticisms, and expectations regarding Sainz’s rep
 - Media and *tifosi* reactions to Sainz’s exit and transition to Williams.  
 - Evaluation of how Hamilton’s arrival influenced team perception.  
 - Identification of trends and narrative shifts during this transition.
+
+
+**Conclusions** 
+
+Based on articles related to Carlos Sainz and Ferrari, the following conclusions can be highlighted:  
+
+1. **Ferrari and Leclerc’s 2025 Prospects:** Sainz believes Ferrari can fight for the championship but acknowledges challenges.  
+2. **Team Relationship:** Sainz values his positive relationship with Ferrari and his impact on the team.  
+3. **Ferrari’s Legacy:** He hopes his time at Ferrari leaves a meaningful mark on his career.  
+4. **Key Moments:** Ferrari admitted to strategic mistakes in 2024 that cost them the title.  
+5. **Adapting to New Challenges:** Sainz aims to continue his success, learning from McLaren and Ferrari.  
+
+More details can be found in the provided links.
