@@ -32,5 +32,10 @@ Based on articles related to Carlos Sainz and Ferrari, the following conclusions
 3. **Ferrari’s Legacy:** He hopes his time at Ferrari leaves a meaningful mark on his career.  
 4. **Key Moments:** Ferrari admitted to strategic mistakes in 2024 that cost them the title.  
 5. **Adapting to New Challenges:** Sainz aims to continue his success, learning from McLaren and Ferrari.  
+6. **The Team Switch Sparks Excitement but Also Concern** – Sainz’s move to Williams raises curiosity about his potential but also doubts about the team’s competitiveness.  
+7. **Ferrari’s Image Takes a Hit After His Departure** – His exit leads to discussions about Ferrari’s management and how they handled the transition.  
+8. **Williams: A Fresh Start That Divides Opinions** – Some see it as an opportunity, while others believe it’s a step backward.  
+9. **Ferrari Fans Express Confusion and Nostalgia** – Many tifosi regret his departure and question Ferrari’s decision.  
+10. **Sainz’s Stance on His New Challenge** – He remains confident, but expectations and pressure are high.
 
 More details can be found in the provided links.
