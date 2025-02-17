@@ -3,6 +3,15 @@
 **Project Description**  
 This project analyzes Ferrari's reputation following the driver lineup change, specifically Carlos Sainz's replacement by Lewis Hamilton. Using web scraping techniques in Python with BeautifulSoup, articles and comments from major Spanish sports media, such as Marca, were extracted to understand press and fan perceptions.  
 
+
+
+![Texto alternativo](assets/image_hamilton.png)
+
+
+
+
+
+
 **Objective**  
 To examine media reactions, criticisms, and expectations regarding Sainz’s replacement by Hamilton, highlighting its impact on Ferrari’s brand image and the competitive atmosphere in F1.  
 
